@@ -21,4 +21,4 @@ Bienvenido a **AS STYLE**, una tienda de moda en línea diseñada para ofrecer r
 Para descargar el código fuente, ejecuta en la terminal:  
 
 ```sh
-git clone https://github.com/yormxxx/as-style.git
+git clone https://github.com/asstyle/as-style.git
